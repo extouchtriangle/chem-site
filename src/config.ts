@@ -6,7 +6,7 @@ export const SITE: Site = {
   title: 'Astro AntfuStyle Theme',
   description:
     'A customizable, feature-rich Astro theme for blog and portfolio creation',
-  author: 'Stephanie Lin',
+  author: 'extouchtriangle',
   lang: 'en',
   ogLocale: 'en_US',
   imageDomains: ['cdn.bsky.app', 'images.unsplash.com'],
@@ -15,64 +15,25 @@ export const SITE: Site = {
 export const UI: Ui = {
   internalNavs: [
     {
-      path: '/blog',
-      title: 'Blog',
+      path: '/',
+      title: 'Home',
       displayMode: 'alwaysText',
-      text: 'Blog',
+      text: 'Home',
     },
+
     {
-      path: '/projects',
-      title: 'Projects',
+      path: '/csrnotes',
+      title: 'CSR',
       displayMode: 'alwaysText',
-      text: 'Projects',
-    },
-    {
-      path: '/highlights',
-      title: 'Highlights',
-      displayMode: 'iconToTextOnMobile',
-      text: 'Highlights',
-      icon: 'i-ri-screenshot-line',
-    },
-    {
-      path: '/photos',
-      title: 'Photos',
-      displayMode: 'iconToTextOnMobile',
-      text: 'Photos',
-      icon: 'i-ri-camera-ai-line',
-    },
-    {
-      path: '/shorts',
-      title: 'Shorts',
-      displayMode: 'iconToTextOnMobile',
-      text: 'Shorts',
-      icon: 'i-meteor-icons-grid',
-    },
-    {
-      path: '/changelog',
-      title: 'Changelog',
-      displayMode: 'iconToTextOnMobile',
-      text: 'Changelog',
-      icon: 'i-ri-draft-line',
+      text: 'CSR',
     },
   ],
   socialLinks: [
     {
-      link: 'https://github.com/lin-stephanie/astro-antfustyle-theme',
-      title: 'AntfuStyle on Github',
+      link: 'https://github.com/extouchtriangle/csrnotes',
+      title: 'github repo',
       displayMode: 'alwaysIcon',
       icon: 'i-uil-github-alt',
-    },
-    {
-      link: 'https://x.com/astrodotbuild',
-      title: 'Astro on Twitter',
-      displayMode: 'alwaysIcon',
-      icon: 'i-ri-twitter-x-fill',
-    },
-    {
-      link: 'https://bsky.app/profile/astro.build',
-      title: 'Astro on Bluesky',
-      displayMode: 'alwaysIcon',
-      icon: 'i-meteor-icons-bluesky',
     },
   ],
   navBarLayout: {
@@ -186,7 +147,7 @@ export const FEATURES: Features = {
   search: [
     true,
     {
-      includes: ['blog', 'shorts', 'changelog'],
+      includes: ['csrnotes'],
       filter: true,
       navHighlight: true,
       batchLoadSize: [true, 5],

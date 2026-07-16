@@ -14,7 +14,7 @@ export function formatDate(d: Date | string, showYear = true, useUTC = false) {
     ...(useUTC && { timeZone: 'UTC' }),
   }
 
-  return date.toLocaleDateString(SITE.lang, options)
+  return date.toLocaleDateString('en-US', { ...options, timeZone: 'UTC' })
 }
 
 /**
