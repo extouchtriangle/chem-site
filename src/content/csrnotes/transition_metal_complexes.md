@@ -14,4 +14,4 @@ In 'classical' complex ions, a metal cation is surrounded by either anions (hali
 ## Geometries of complexes {#geometries-of-complexes}
 
 -   Four-coordinate complexes are tetrahedral, or rarely square-planar is the case of Group 10 (like Pd)
--   Six-coordinate complexes are octahedral.
+-   Six-coordinate complexes are [octahedral]({{< relref "octahedral_complexes.md" >}}).
