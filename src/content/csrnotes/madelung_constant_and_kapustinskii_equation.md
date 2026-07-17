@@ -10,12 +10,12 @@ pubDate: 2026-07-16
 The Kapustinskii equation is way to roughly estimate the lattice energy of an ionic compound.
 
 
-## Madelung constant
+## Madelung constant {#madelung-constant}
 
 The Madelung constant represents the attractive force that a single ion in an ionic lattice feels --- it feels attraction to the neighboring anions, but then repulsion from the next-closest cations, and so on.
 
 
-## The Kapustinskii equation
+## The Kapustinskii equation {#the-kapustinskii-equation}
 
 M / n<sub>ions</sub> &asymp; 0.87
 So, E<sub>lattice</sub> can be calculated via

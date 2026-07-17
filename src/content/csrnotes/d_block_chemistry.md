@@ -11,3 +11,4 @@ Transition metal chem
 
 -   [Metallic bonding and bands]({{< relref "metallic_bonding_and_bands.md" >}})
 -   [d-block orbital stuff]({{< relref "d_block_orbital_energies.md" >}})
+-   [Coordination chemistry]({{< relref "coordination_chemistry.md" >}})

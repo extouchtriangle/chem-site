@@ -7,7 +7,7 @@ draft: false
 pubDate: 2026-07-16
 ---
 
-## Observation: high oxidation states
+## Observation: high oxidation states {#observation-high-oxidation-states}
 
 The higher oxidation states of the main-group elements, such as nitrogen (V) and sulfur (VI), are typically observed in only oxides and fluorides. Examples:
 
@@ -15,7 +15,7 @@ The higher oxidation states of the main-group elements, such as nitrogen (V) and
 -   NO<sub>3</sub><sup>-</sup> exists, but no +5 oxidation state with sulfur substituents
 
 
-## Why F is associated with high oxidation states
+## Why F is associated with high oxidation states {#why-f-is-associated-with-high-oxidation-states}
 
 Consider the decomposition reaction: SX<sub>6</sub> &rarr; SX<sub>4</sub> + X<sub>2</sub>. This reaction is unfavorable in F for three main reasons.
 
@@ -27,7 +27,7 @@ Consider the decomposition reaction: SX<sub>6</sub> &rarr; SX<sub>4</sub> + X<su
     -   Lets more F atoms fit around central atom
 
 
-## Why O is associated with high oxidation states
+## Why O is associated with high oxidation states {#why-o-is-associated-with-high-oxidation-states}
 
 -   O can form multiple bonds (specifically double bonds) with central atom, helping decrease steric hindrance
 -   This is a feature of second-period nonmetals as their small _p_ orbitals encourage &pi; overlap

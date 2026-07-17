@@ -7,7 +7,7 @@ draft: false
 pubDate: 2026-07-16
 ---
 
-## Axis of symmetry
+## Axis of symmetry {#axis-of-symmetry}
 
 -   \\(n\\)-fold axis of symmetry denoted as \\(C\_n\\)
     -   Rotation by \\(\frac{360}n\\) about axis should leave indistinguishable molecular structure
@@ -15,7 +15,7 @@ pubDate: 2026-07-16
     -   ex. Benzene has a principal \\(C\_6\\) axis, while methane does **not** have principal axis (three different \\(C\_3\\) axes)
 
 
-## Mirror planes
+## Mirror planes {#mirror-planes}
 
 -   Three types of mirror planes: \\(\sigma\_h\\), \\(\sigma\_v\\), \\(\sigma\_d\\)
     -   h, v, d stand for "horizontal", "vertical", "dihedral"
@@ -25,10 +25,10 @@ pubDate: 2026-07-16
         -   When there are multiple dihedral planes, the plane passing through **more atoms** is designated vertical
 
 
-## Inversion centers
+## Inversion centers {#inversion-centers}
 
 
-## Improper rotation axis
+## Improper rotation axis {#improper-rotation-axis}
 
 -   Composition of rotation and reflection
 -   Denoted \\(S\_n\\), referred to as \\(n\\)-fold rotation axis
