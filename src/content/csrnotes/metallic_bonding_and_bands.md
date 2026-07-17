@@ -20,11 +20,11 @@ between AOs
 -   How electricity is conducted:
 -   Note: electricity is not conducted in fully filled bands.
 
-![Image](./images/2026-07-09_22-17-34_screenshot.png)
+![Image](/ox-hugo/2026-07-09_22-17-34_screenshot.png)
 
 -   Overlapping bands "equalize" their energies:
 
-![Image](./images/Bands/2026-07-09_22-35-42_screenshot.png)
+![Image](/ox-hugo/2026-07-09_22-35-42_screenshot.png)
 
 -   This is how elements like Be (with a seemingly full s band) can conduct electricity.
 
