@@ -10,7 +10,7 @@ pubDate: 2026-07-16
 [Molecular orbitals]({{< relref "molecular_orbitals.md" >}})
 
 
-## Five rules for forming MOs {#five-rules-for-forming-mos}
+## Five rules for forming MOs
 
 1.  Combining n AOs gives n MOs
 2.  Only AOs of the correct symmetry will interact to form MOs

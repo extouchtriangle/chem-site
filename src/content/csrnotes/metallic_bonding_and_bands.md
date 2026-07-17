@@ -7,7 +7,7 @@ draft = false
 pubDate = 2026-07-16
 +++
 
-## Bands {#bands}
+## Bands
 
 -   Macroscopic samples of metals are composed of many, many AOs
 -   AOs combine into many, many MOs with different energies (known as Crystal Orbitals, COs)
@@ -29,7 +29,7 @@ between AOs
 -   This is how elements like Be (with a seemingly full s band) can conduct electricity.
 
 
-## Band gaps/semiconductors {#band-gaps-semiconductors}
+## Band gaps/semiconductors
 
 -   ****Band gap****: separation between full band and empty band
 -   At room temperature, thermal energy of electrons is around 2.5 kJ/mol: if band gap is smaller or similar to this energy, significant numbers of electrons can be promoted to conduction band

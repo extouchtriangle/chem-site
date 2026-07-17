@@ -10,7 +10,7 @@ pubDate: 2026-07-16
 Slater's rules are a way to estimate the effective nuclear charge of an electron.
 
 
-## Slater's rules {#slater-s-rules}
+## Slater's rules
 
 1.  Split the orbitals into groups as follows: (1s) (2s, 2p) (3s, 3p) (3d) (4s, 4p) (4d) (4f) ...
 2.  In the list, no contribution is given to orbitals to the right of the electron whose Z<sub>eff</sub> (or S) we want to find.
