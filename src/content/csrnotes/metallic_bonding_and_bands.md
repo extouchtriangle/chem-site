@@ -2,7 +2,7 @@
 title = "Metallic bonding and bands"
 author = ["Easton"]
 date = 2026-07-16
-tags = ["csr", "￼"]
+tags = ["csr"]
 draft = false
 pubDate = 2026-07-16
 +++
